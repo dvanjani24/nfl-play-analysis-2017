@@ -1,4 +1,4 @@
-# NFL Offensive Performance and Play Selection: Analysis of NFL Play-by-Play Data
+# NFL Offensive Performance and Play Selection: Analysis of 2017 NFL Play-by-Play Data
 
 Shiny app can be found here: https://drycustard.shinyapps.io/nfl-play-by-play/
 
